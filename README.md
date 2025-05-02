@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Juwan 👋
 
-<!--
-**juwanj/juwanj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a recent Computer Science graduate with a strong interest in business analysis, and using technology to solve real-world problems.
+I'm actively building projects to sharpen my skills and showcase what I’ve learned.
 
-Here are some ideas to get you started:
+- 🎓 Graduated with a degree in Computer Science (2024)
+- 📚 Currently learning: Python, SQL, Excel, Git, and Power BI
+- 💡 Interested in: Business analysis, automation, and user-focused software solutions
+- 🚀 Building: Personal projects that demonstrate analytical thinking and problem-solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tools & Technologies
+
+- Python
+- SQL
+- Git & GitHub
+- Excel
+- Power BI
