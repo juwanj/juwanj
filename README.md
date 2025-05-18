@@ -6,7 +6,7 @@ I'm actively building projects to sharpen my skills and showcase what I’ve lea
  🎓 Graduated with a degree in Computer Science (2024)
 
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 Python
 SQL
