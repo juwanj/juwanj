@@ -12,4 +12,4 @@ Python
 SQL
 Git & GitHub
 Excel
-Power BI
+IBM Cognos BI
